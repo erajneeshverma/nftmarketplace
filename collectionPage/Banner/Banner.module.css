@@ -1,0 +1,10 @@
+
+
+.banner_img{
+    width: 80%;
+    margin: 0 auto;
+}
+.banner_img_mobile{
+    display: none;
+}
+
