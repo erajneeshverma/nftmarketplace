@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React,{useState, useCallback} from 'react'
 import Image from 'next/legacy/image';
 
@@ -87,18 +87,6 @@ const DropZone = ({title, heading, subHeading, itemName, website, description, r
           </div>
         </aside>
       )}
-=======
-import React from 'react'
-
-import Style from './DropZone.module.css';
-
-const DropZone = ({title, heading, subHeading, itemName, website, description, royalities, fileSize, category, image}) => {
-  return (
-    <div>
-      
->>>>>>> 4f6941fbe137312b8ffefb6d4fead5a3fc01bff6
     </div>
-  )
-}
-
+)}
 export default DropZone;
