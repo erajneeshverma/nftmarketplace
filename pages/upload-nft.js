@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Style from '../styles/upload-nft.module.css';
-import { UploadNFT } from '@/uploadNFT/uploadNFTIndex';
+import { UploadNFT } from '@/uploadNFT/uploadNFTIndex.js';
 
 const uploadnft = () => {
   return (
