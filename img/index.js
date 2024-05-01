@@ -48,9 +48,10 @@ import Provider1 from './provider-1.jpg';
 import Provider2 from './provider-2.png';
 import Provider3 from './provider-3.png';
 import Provider4 from './provider-4.png';
-
+import hero2 from './hero2.jpg'
 
 export default {
+  hero2,
   Provider1,
   Provider2,
   Provider3,
