@@ -30,7 +30,6 @@ const subscription = () =>{
         },
     ]
     return (
-<<<<<<< HEAD
         <div className={Style.subscription}>
             <div className={Style.subscription_box}>
                 <div className={Style.subscription_box_info}>
@@ -43,10 +42,6 @@ const subscription = () =>{
                     ))}
                 </div>    
             </div>
-=======
-        <div>
-            subscription
->>>>>>> 5915e8746c87ac40f281ab5fbba3d4e9e8b95066
         </div>
     )
 }

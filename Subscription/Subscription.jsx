@@ -1,18 +1,13 @@
-<<<<<<< HEAD
 import React from 'react'
 import { TiTick } from 'react-icons/ti';
 import { Button } from '@/components/componentindex';
-=======
 import react from "react";
 
-
->>>>>>> 5915e8746c87ac40f281ab5fbba3d4e9e8b95066
 
 //internal import
 import Style from './Subscription.module.css';
 
 
-<<<<<<< HEAD
 const Subscription = ({el,i}) => {
   return (
     <div className={Style.SubscriptioBox}>
@@ -32,15 +27,7 @@ const Subscription = ({el,i}) => {
         </div>
     </div>
   )
-=======
-
-const Subscription = () =>{
-    return (
-        <div>
-            subscription
-        </div>
-    )
->>>>>>> 5915e8746c87ac40f281ab5fbba3d4e9e8b95066
 }
+
 
 export default Subscription;
